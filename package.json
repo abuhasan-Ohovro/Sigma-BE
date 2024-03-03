@@ -1,0 +1,23 @@
+{
+  "name": "sigmabackend",
+  "version": "1.0.0",
+  "description": "This is the sigma backend project ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "backend",
+    "project",
+    "sigma",
+    "full_stack"
+  ],
+  "author": "Md Abu Hasan Mondal (Ohovro)",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3",
+    "nodemon": "^3.1.0",
+    "slugify": "^1.6.6"
+  }
+}
